@@ -46,6 +46,4 @@ jobs:
           build_dir: dist
           # Which branch to push files.
           branch: gh-pages
-          # The custom domain name.
-          cname: www.jarden.vip
          
